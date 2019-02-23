@@ -1,2 +1,3 @@
 # hello-world
-sample to learn git
+sample to learn git.
+Adding new line.
